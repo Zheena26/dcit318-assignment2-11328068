@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318 assignment2-11328068\Interface_Demo\bin\Debug\net9.0\Interface_Demo.exe
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318 assignment2-11328068\Interface_Demo\bin\Debug\net9.0\Interface_Demo.deps.json
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318 assignment2-11328068\Interface_Demo\bin\Debug\net9.0\Interface_Demo.runtimeconfig.json
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318 assignment2-11328068\Interface_Demo\bin\Debug\net9.0\Interface_Demo.dll
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318 assignment2-11328068\Interface_Demo\bin\Debug\net9.0\Interface_Demo.pdb
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318 assignment2-11328068\Interface_Demo\obj\Debug\net9.0\Interface_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318 assignment2-11328068\Interface_Demo\obj\Debug\net9.0\Interface_Demo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318 assignment2-11328068\Interface_Demo\obj\Debug\net9.0\Interface_Demo.AssemblyInfo.cs
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318 assignment2-11328068\Interface_Demo\obj\Debug\net9.0\Interface_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318 assignment2-11328068\Interface_Demo\obj\Debug\net9.0\Interface_Demo.dll
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318 assignment2-11328068\Interface_Demo\obj\Debug\net9.0\refint\Interface_Demo.dll
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318 assignment2-11328068\Interface_Demo\obj\Debug\net9.0\Interface_Demo.pdb
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318 assignment2-11328068\Interface_Demo\obj\Debug\net9.0\Interface_Demo.genruntimeconfig.cache
+C:\Users\Administrator\Documents\DCIT318-ASSIGNMENTS\dcit318 assignment2-11328068\Interface_Demo\obj\Debug\net9.0\ref\Interface_Demo.dll
